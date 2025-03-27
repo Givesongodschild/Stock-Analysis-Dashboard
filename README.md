@@ -8,7 +8,7 @@ This project analyzes MasterCard stock data using Python for data cleaning and v
 
 📂 Project Files
 	•	📜 Mastercard Stock Data Analysis.ipynb → Python notebook for data analysis
-	•	📊 Stock_Dashboard.pbix → Power BI dashboard
+	•	📊 Mastercard Stock Dashboard.pbix → Power BI dashboard
 	•	📄 Stock_data.csv → Cleaned stock data
 	•	📷 Images/ → Screenshots of analysis & dashboard
 
